@@ -1,0 +1,15 @@
+# Binários e executáveis compilados
+aerognc
+*.o
+*.out
+
+# Arquivos de depuração do Mac / LLDB
+*.dSYM/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Documentos internos de especificações (não incluir no repo)
+DOCUMENTACAO_PROOFSNAP.md
+PROJETO_GNC_C.md
